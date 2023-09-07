@@ -4,3 +4,6 @@ int main(){
     cout<<"gani"<<endl;
     return 0;
 }
+
+
+gani
